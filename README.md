@@ -12,4 +12,8 @@ Programs:
 6. Liang-Barsky Line Clipping Algorithm.
 7. Cohen-Hodgeman Polygon Clipping Algorithm.
 8. Rotate House like figure about a point.
+9. Color Cube Rotation
+10. Moving Car with varying speed
+11. Curves and Color menu
+12. Beizer Curve
 
